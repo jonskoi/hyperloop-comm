@@ -1,0 +1,8 @@
+title: Hyperloop communications & EM propagation
+description: 개인 아카이브 — Hyperloop 통신과 전자기 전파에 관한 공부 노트, 요약, 참고 자료.
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+show_downloads: false
